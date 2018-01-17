@@ -1,0 +1,14 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\bin\Debug\Docx.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\bin\Debug\Docx.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\bin\Debug\Docx.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\Docx.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\Docx_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\Docx_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\Docx.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\Docx.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\Docx.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\Docx.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\Docx\Docx\obj\Debug\Docx.pdb

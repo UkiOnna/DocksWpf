@@ -1,0 +1,38 @@
+﻿<Window x:Class="Docx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Docx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <!--<FlowDocumentReader>
+        <FlowDocument>
+            <Paragraph>
+                <Span>
+                    <Bold>
+                        <Italic>
+                    <Run Foreground="Red" FontSize="36">Ж</Run>
+                        </Italic>
+                    </Bold>
+                    <Run>или-были</Run>
+                </Span>
+            </Paragraph>
+        </FlowDocument>
+    </FlowDocumentReader>-->
+    <Grid>
+        <DocumentViewer Name="container">
+            <FixedDocument Name="doc">
+            <PageContent>
+                
+                <!--<FixedPage>
+                        <TextBlock>Я узнал аааа</TextBlock>
+                </FixedPage>-->
+                
+            </PageContent>
+            </FixedDocument>
+        </DocumentViewer>
+        <Button Click="saveClick" Content="Сохранить" HorizontalAlignment="Right" Margin="0,289,175,0" Width="75" Height="20" VerticalAlignment="Top"/>
+        <Button Click="loadClick" Content="Загрузить" HorizontalAlignment="Right" Margin="0,289,69,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>
